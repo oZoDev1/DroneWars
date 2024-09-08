@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/StarterContent/BasicMap.umap",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/M_Drone.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/M_DroneGlass.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/SM_Drone.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/SM_Drone_Two_Mats.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/T_Drone_BC.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/T_Drone_EM.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/T_Drone_NRM.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/T_Drone_ORM.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/Drone/BP_Bot.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/BlasterBeam/SM_BlasterBeam.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/BlasterBeam/Materials/M_BlasterBeam.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/BlasterBeam/BP_BlasterBeam.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/FX/NS_BeamBurst.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/BlasterBeam/Cylinder_03D74853.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/Sounds/SFX_Drone_Energy_Rifle_01.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/Sounds/SFX_Drone_Energy_Rifle_02.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/Sounds/SFX_Drone_Energy_Rifle_03.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/Sounds/sfx_EnergyRifle.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/Sounds/ATT_Drone.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/Pawn/BP_BotPawn.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/Pawn/Input/Actions/IA_Fire.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/Pawn/Input/Actions/IA_Look.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/Pawn/Input/IMC_Bot.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/Pawn/Input/Actions/IA_Move.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/Interfaces/BPI_Damageable.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/Widgets/WB_OverlayHUD.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/Drone/BP_BotSpawner.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Asian_Village/maps/Asian_Village_Demo.umap",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/Drone/NewBlueprint.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/Drone/BP_Bot_Boss.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/SM_DroneBoss.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/SFX_Drone_Energy_Rifle_01.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/SFX_Drone_Energy_Rifle_02.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Models/SFX_Drone_Energy_Rifle_03.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/Pawn/Input/IA_Fire.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/Pawn/Input/Actions/AI_Move.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/BlasterBeam/SM_MERGED_Laser.uasset",
+				"C:/Users/alpbe/OneDrive/Belgeler/Unreal Projects/Section1/Content/Scripts/Drone/BP_Drone.uasset"
+			]
+		}
+	]
+}
